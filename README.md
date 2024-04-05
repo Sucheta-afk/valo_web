@@ -1,1 +1,1 @@
-Website making only with html - A bigginer project
+Website making only with html - A begginer project
